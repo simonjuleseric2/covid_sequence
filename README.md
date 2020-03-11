@@ -4,6 +4,7 @@ Analysis of the genetic sequence of the Severe acute respiratory syndrome corona
 
 **IDs**   
 * MN996528 :  H. Sapiens (Human COVID19) *  
+*NC_019843: H.Sapiens (Human MERS) *  
 * JQ065048:   anatidae (ducks, geese and swans) *  
 * NC_028824:  rhinolophus (horseshoe bats) *  
 * KX38909:    Gallus gallus (Chicken) *
