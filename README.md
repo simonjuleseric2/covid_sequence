@@ -7,3 +7,6 @@ Analysis of the genetic sequence of the Severe acute respiratory syndrome corona
 * JQ065048: anatidae (ducks, geese and swans) *  
 * NC_028824: rhinolophus (horseshoe bats) *  
 * KX38909: Gallus gallus (Chicken) *
+
+
+![](tree.png)
