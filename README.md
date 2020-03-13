@@ -13,6 +13,8 @@ Analysis of the genetic sequence of the Severe acute respiratory syndrome corona
 ![](tree.png)
 
 
+![](tree2.png)
+
 # Dependencies:
 
 * Biopython
