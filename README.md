@@ -12,7 +12,7 @@ Analysis of the genetic sequence of the Severe acute respiratory syndrome corona
 
 ![](tree.png)
 
-
+Next we explore different samples of the SARS-CoV-2 taken from several (human) hosts in different countries. The results are displayed on the following phylogenetic tree:
 ![](tree2.png)
 
 # Dependencies:
