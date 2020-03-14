@@ -1,6 +1,7 @@
 # covid_sequence
 
 Analysis of the genetic sequence of the Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) compared with other viruses from the same familly (Coronaviridae) in diferent hosts.
+We will use clustal Omega that use seeded guide trees and HMM profile-profile techniques to generate alignments between multiple sequence. From this alignement a distance matrix can be extracted and used to generate the phylogenetic tree.
 
 **IDs**   
 * MN996528 :  H. Sapiens (Human SARS-CoV-2)   
