@@ -11,7 +11,7 @@ We will use clustal Omega that use seeded guide trees and HMM profile-profile te
 * KX38909:    Gallus gallus (Chicken) 
 
 
-The blue branche represent the human strain (MERS-CoV and SARS-CoV-2)
+The blue branches represent the human strain (MERS-CoV and SARS-CoV-2):
 
 ![](tree.png)
 
