@@ -5,11 +5,13 @@ We will use clustal Omega that use seeded guide trees and HMM profile-profile te
 
 **IDs**   
 * MN996528 :  H. Sapiens (Human SARS-CoV-2)   
-* NC_019843: H.Sapiens (Human MERS)   
+* NC_019843: H.Sapiens (Human MERS-CoV)   
 * JQ065048:   anatidae (ducks, geese and swans)   
 * NC_028824:  rhinolophus (horseshoe bats)   
 * KX38909:    Gallus gallus (Chicken) 
 
+
+The blue branche represent the human strain (MERS-CoV and SARS-CoV-2)
 
 ![](tree.png)
 
