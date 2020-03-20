@@ -10,6 +10,8 @@ We will use clustal Omega that use seeded guide trees and HMM profile-profile te
 * NC_028824:  rhinolophus (horseshoe bats)   
 * KX38909:    Gallus gallus (Chicken) 
 
+The sequences data (fasta files) can be found in the online public library: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/
+
 
 The blue branches represent the human strain (MERS-CoV and SARS-CoV-2):
 
