@@ -23,4 +23,4 @@ Next we explore different samples of the SARS-CoV-2 taken from several (human) h
 # Dependencies:
 
 * Biopython
-* clustral (for alignement)
+* clustral (for alignement) Note: alignement can also be performed directly on https://www.ncbi.nlm.nih.gov/labs/virus/vssi/ before downloading the sequences.
