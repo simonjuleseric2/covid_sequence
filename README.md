@@ -13,7 +13,7 @@ We will use clustal Omega that use seeded guide trees and HMM profile-profile te
 The sequences data (fasta files) can be found in the online public library: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/
 
 
-The red branches represent the SARS-CoV-2 with it's closest ancestor (Horseshoe bat):
+The red branche represents the SARS-CoV-2 with it's closest ancestor (Horseshoe bat):
 
 ![](tree.png)m
 
