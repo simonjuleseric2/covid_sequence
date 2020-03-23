@@ -7,7 +7,8 @@ We will use clustal Omega that use seeded guide trees and HMM profile-profile te
 * MN996528 :  H. Sapiens (Human SARS-CoV-2)   
 * NC_019843: H.Sapiens (Human MERS-CoV)   
 * JQ065048:   anatidae (ducks, geese and swans)   
-* MG772934:  rhinolophus (horseshoe bats)   
+* MG772934:  rhinolophus (horseshoe bats)  
+* NC_034972	Apodemus chevrieri (Rodent)
 * KX38909:    Gallus gallus (Chicken) 
 
 The sequences data (fasta files) can be found in the online public library: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/
