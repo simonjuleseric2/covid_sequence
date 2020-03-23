@@ -15,7 +15,7 @@ The sequences data (fasta files) can be found in the online public library: http
 
 The red branche represents the SARS-CoV-2 with it's closest ancestor (Horseshoe bat):
 
-![](tree.png)m
+![](tree.png)
 
 Next we explore different samples of the SARS-CoV-2 taken from several (human) hosts in different countries. The results are displayed on the following phylogenetic tree:
 ![](tree2.png)
