@@ -1,7 +1,7 @@
 # covid_sequence
 
 
-[ * Full code ](coronavirus_sequence_analis.ipynb)
+[ * Full code available here ](coronavirus_sequence_analis.ipynb)
 
 
 Analysis of the genetic sequence of the Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) compared with other viruses from the same familly (Coronaviridae) in diferent hosts.
@@ -30,7 +30,7 @@ Next we explore different samples of the SARS-CoV-2 taken from several (human) h
 ![](tree2.png)
 
 
-[More details](https://medium.com/@simonburgermeister/sars-cov-2-phylogenetic-tree-from-genetic-sequences-b4f8f5788087)
+[More details available here](https://medium.com/@simonburgermeister/sars-cov-2-phylogenetic-tree-from-genetic-sequences-b4f8f5788087)
 
 # Dependencies:
 
