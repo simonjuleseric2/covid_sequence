@@ -14,6 +14,7 @@ We will use clustal Omega that use seeded guide trees and HMM profile-profile te
 * MG772934:  rhinolophus (horseshoe bats)  
 * NC_034972	Apodemus chevrieri (Rodent)
 * KX38909:    Gallus gallus (Chicken) 
+* MT084071:   Manis javanica (Pangolin)
 
 The sequences data (fasta files) can be found in the online public library: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/
 
