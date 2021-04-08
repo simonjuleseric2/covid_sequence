@@ -22,6 +22,7 @@ The sequences data (fasta files) can be found in the online public library: http
 
 <br/>
 <br/>
+
 # ACE2 sequences analysis:
 
 [ * Code for this section](ACE2_prot_sequences.ipynb)
