@@ -17,16 +17,15 @@ We will use clustal Omega that use seeded guide trees and HMM profile-profile te
 
 The sequences data (fasta files) can be found in the online public library: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/
 
-![](tree.png)
-
-
-The red branche represents the SARS-CoV-2 with it's closest relative (Horseshoe bat host)
-
-<br/>
-<br/>
-
-Next we explore different samples of the SARS-CoV-2 taken from several (human) hosts in different countries. The results are displayed on the following phylogenetic tree:
 ![](tree2.png)
+
+
+<br/>
+<br/>
+
+Next we explore different sequences of ACE2 (the cell receptor used by the virus) among different species:
+
+![](tree.png)
 
 
 [More details available here](https://medium.com/@simonburgermeister/sars-cov-2-phylogenetic-tree-from-genetic-sequences-b4f8f5788087)
