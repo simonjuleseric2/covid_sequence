@@ -1,8 +1,8 @@
-# covid_sequence
+# Coronaviridae sequences analysis:
 
 
-[ * Whole virus sequence analysis ](coronaviridae_phylo.ipynb)
-[ * ACE2 protein sequence analysis ](ACE2_prot_sequences.ipynb)
+[ * Code for this section ](coronaviridae_phylo.ipynb)
+
 
 Analysis of the genetic sequence of the Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) compared with other viruses from the same familly (Coronaviridae) in diferent hosts.
 We will use clustal Omega that use seeded guide trees and HMM profile-profile techniques to generate alignments between multiple sequence. From this alignement a distance matrix can be extracted and used to generate the phylogenetic tree.
@@ -22,6 +22,9 @@ The sequences data (fasta files) can be found in the online public library: http
 
 <br/>
 <br/>
+# ACE2 sequences analysis:
+
+[ * Code for this section](ACE2_prot_sequences.ipynb)
 
 Next we explore different sequences of ACE2 (the cell receptor used by the virus) among different species:
 
