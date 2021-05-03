@@ -32,9 +32,18 @@ Next we explore different sequences of ACE2 (the cell receptor used by the virus
 ![](tree.png)
 
 
-[More details available here](https://medium.com/@simonburgermeister/sars-cov-2-phylogenetic-tree-from-genetic-sequences-b4f8f5788087)
+# SNP and Indels locations among sequenced samples:
+Sequences from NCBI aligned to reference genome (NC_045512.2)
+Variant calling using samtools.
+
+![](variant_analysis/mut1.png)
+
+
+
 
 # Dependencies:
 
 * Biopython
 * clustral (for alignement) Note: alignement can also be performed directly on https://www.ncbi.nlm.nih.gov/labs/virus/vssi/ before downloading the sequences.
+* BWA
+* Samtools
